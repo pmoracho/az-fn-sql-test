@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_fn_sql_test": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7066",
+      "launchBrowser": false
+    }
+  }
+}
