@@ -268,3 +268,5 @@ __azurite*
 
 # Ignore the entire .vscode folder
 .vscode/
+
+azurite/*
